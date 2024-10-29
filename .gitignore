@@ -1,0 +1,8 @@
+*test*
+*.csv
+__pycache__/
+images/
+.idea
+datasets/
+configs.py
+downloads
